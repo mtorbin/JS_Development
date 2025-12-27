@@ -50,3 +50,23 @@ let isAuthenticated = true;
 let authenticationStatus = isAuthenticated ? "Authenticated" : "Not authenticated";
 
 console.log("Authentication Status:", authenticationStatus);
+
+// practice task
+let routineRole = "Enrolled Member";
+let dietAccessLevel;
+
+switch (routineRole) {
+    case "Employee":
+        dietAccessLevel = "Dietary Services";
+        break;
+    case "Enrolled Member":
+        dietAccessLevel = "Dietary Services and one-on-one interaction with a dietician";
+        break;
+    case "Subscriber":
+        dietAccessLevel = "partial access to facilitate Dietary Services";
+        break;
+    default:
+        dietAccessLevel = "Please enroll or at least subscribe first to avail this facility";
+}
+
+console.log("Diet Access Status:", dietAccessLevel);
