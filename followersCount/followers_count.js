@@ -18,3 +18,8 @@ function checkCountValue() {
   }
 }
 
+function resetCount() {
+  count = 0;
+  displayCount(); // Display the count
+  alert("Your Instagram post followers count has been reset!");   
+}
