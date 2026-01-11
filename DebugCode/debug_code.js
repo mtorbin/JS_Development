@@ -16,11 +16,14 @@
     }
 
     function multiply(a, b) {
+        let res1, res2 = undefined;
         // Introduce a debugger statement to pause execution
         debugger;
 
+        res1 = a + b;
+        res2 = a / res1;
         // Multiply the numbers
-        return a * b;
+        return a * res2;
     }
 
     function displayResult(result) {
