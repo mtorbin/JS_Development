@@ -20,7 +20,7 @@ function displayTasks() {
     tasks.forEach((task, index) => {
         const li = document.createElement("li");
         li.innerHTML = `<input type="checkbox" id="task-${index}" ${task.completed ? "checked" : ""}>
-            <label for="task-${index}">${task.text}</label>`;
+                        <label for="task-${index}">${task.text}</label>`;  
         li.querySelector("input").addEventListener("change", () => toggleTask(index));
         taskList.appendChild(li);
     });
