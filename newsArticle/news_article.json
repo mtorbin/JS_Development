@@ -1,67 +1,30 @@
 {
     "articles": [
       {
-        "title": "The Importance of Regular Exercise",
-        "description": "This article discusses the numerous benefits of regular exercise, including improved cardiovascular health, stronger muscles, better mental health, and increased longevity.",
-        "ways_to_achieve": [
-          "Engage in at least 150 minutes of moderate-intensity aerobic activity per week.",
-          "Incorporate strength training exercises for major muscle groups at least twice a week.",
-          "Find physical activities you enjoy, such as walking, cycling, swimming, or dancing."
-        ],
-        "benefits": [
-          "Enhanced cardiovascular fitness and reduced risk of heart diseases.",
-          "Stronger muscles and improved bone density.",
-          "Better mood and reduced risk of depression and anxiety.",
-          "Increased lifespan and overall better quality of life."
+        "title": "Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch",
+        "news_text": [
+            "The major indexes capped of a second straight stretch of weekly losses\n",
+            "as investors digested a wave of geopolitical headlines and navigated\n",
+            "what remains an unsettled trading environment to start 2026.\n", 
+            "The S&P 500 (^GSPC) barely cracked above the flat line by less than\n", 
+            "0.1% on Friday, losing 0.4% in total on the week, and the Dow Jones \n",
+            "Industrial Average (^DJI) fell into the red by 0.7% on the week. Despite\n",
+            "finishing Friday on a gain of 0.3%, the tech-focused Nasdaq Composite\n", 
+            "(^IXIC) also fell into the red for the week, shedding roughly 0.1% in total.\n",
+            "The breakout price action for the week came in the natural gas (NG=F)\n", 
+            "market, where futures spiked 75% in the five trading sessions leading up\n", 
+            "to Thursday as Winter Storm Fern brings Arctic cold and snow to more\n", 
+            "than 150 million people across the US."
         ]
       },
       {
-        "title": "Healthy Eating Habits for a Balanced Life",
-        "description": "Learn about the fundamentals of a balanced diet, including tips on incorporating fruits, vegetables, whole grains, lean proteins, and healthy fats into your meals.",
-        "ways_to_achieve": [
-          "Consume a variety of colorful fruits and vegetables daily.",
-          "Opt for whole grains like brown rice, quinoa, and whole wheat bread.",
-          "Choose lean sources of protein such as poultry, fish, beans, and nuts.",
-          "Incorporate healthy fats from sources like avocados, olive oil, and nuts."
-        ],
-        "benefits": [
-          "Improved digestion and nutrient absorption.",
-          "Weight management and reduced risk of chronic diseases like diabetes and heart conditions.",
-          "Enhanced energy levels and overall well-being.",
-          "Better control over cravings and mood stabilization."
-        ]
-      },
-      {
-        "title": "Managing Stress for Better Health",
-        "description": "Discover effective strategies to manage stress, such as meditation, exercise, adequate sleep, and fostering social connections, to improve overall well-being.",
-        "ways_to_achieve": [
-          "Practice mindfulness meditation or deep breathing exercises.",
-          "Engage in regular physical activity or yoga.",
-          "Prioritize and ensure adequate sleep of 7-9 hours per night.",
-          "Spend quality time with friends, family, or support groups."
-        ],
-        "benefits": [
-          "Reduced cortisol levels and lower risk of stress-related illnesses.",
-          "Improved mood and mental clarity.",
-          "Enhanced immune system function and better overall health.",
-          "Stronger social support and resilience against stressors."
-        ]
-      },
-      {
-        "title": "The Importance of Adequate Sleep",
-        "description": "This article explores the significance of sleep for health, discussing its role in cognitive function, immune system regulation, and overall physical and mental health.",
-        "ways_to_achieve": [
-          "Establish a consistent sleep schedule, going to bed and waking up at the same time daily.",
-          "Create a relaxing bedtime routine to signal your body that it's time to wind down.",
-          "Limit screen time before bed and create a comfortable sleep environment."
-        ],
-        "benefits": [
-          "Improved cognitive function, concentration, and memory.",
-          "Enhanced immune system and better ability to fight off infections.",
-          "Lower risk of heart diseases, obesity, and mental health issues.",
-          "Improved mood and emotional regulation."
+        "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026",
+        "news_text": [
+          "Wall Street strategists have a message for investors concerned about\n",
+          " the recent drama over Greenland and flight from US assets: Look for\n",
+          " earnings growth to power the stock market higher this year.\n"
         ]
       }
     ]
-  }
+}
   
