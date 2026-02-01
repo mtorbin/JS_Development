@@ -2,7 +2,7 @@ function showweatherDetails(event) {
       event.preventDefault();   // prevents the default behavior of an event, such as form submission, within a function named showweatherDetails
       const lat = document.getElementById('lat').value;
       const lon = document.getElementById('lon').value;
-      const apiKey = '5964b43aebcc84c14596d9678d812df5'; // Replace 'YOUR_API_KEY' with your actual API key
+      const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with your actual API key
       const apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apiKey}&units=metric`;
 
       fetch(apiUrl)
